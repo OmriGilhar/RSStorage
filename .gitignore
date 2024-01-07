@@ -28,3 +28,6 @@ go.work
 
 # Local development
 vendor/
+
+# Tests
+thunder-tests/
